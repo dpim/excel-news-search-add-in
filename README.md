@@ -1,4 +1,4 @@
-# News-Search-Add-in
+# News Search Add-in
 
 ![screenshot](view.png)
 
